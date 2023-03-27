@@ -7,13 +7,13 @@ Um projeto simples de jogo da forca, desenvolvido em C#, para o primeiro desafio
 
 ## Instalação
 
-1. Clone o respositório em sua máquina
+1. Clone o respositório em sua máquina.
 
 ```bash
  $ git clone https://github.com/ferrande/desafio-newbies-forca.git
 ```
 
-2. Execute Program.cs no Visual Studio
+2. Execute Program.cs no Visual Studio.
 
 3. Tente adivinhar a palavra digitando uma letra e presssionando a tecla Enter. Não há limite de tentativas.
 
